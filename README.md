@@ -8,7 +8,7 @@ This is the code that I have written to pass the Final Project Exam for the Cour
 - ProjectDescription.png
 The ProjectDesciption is what you need to replicate using your code except the highlighted yellow content
 
-<h1 style="color:red",align=center><b>Source Code</b></h1>
+<h2 style="color:red",align=center><b>Source Code</b></h2>
 
 ```
 <!DOCTYPE html>
@@ -65,3 +65,7 @@ The ProjectDesciption is what you need to replicate using your code except the h
 </body>
 </html>
 ```
+
+<h2 style="color:red",align=center><b>Output</b></h2>
+
+![Image](ProjectDescription.png)
